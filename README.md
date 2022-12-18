@@ -1,10 +1,6 @@
--Shows covid related data by calling real-time api's and
-updates on daily basis.
+-Shows covid related data by calling real-time api's and updates on daily basis.
 
-
--Added total recovered, confirmed and deaths cases for
-better intution.
-
+-Added total recovered, confirmed and deaths cases for better intution.
 
 -Technology used- ReactJs/css/javascript
 
